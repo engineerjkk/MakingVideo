@@ -1,6 +1,6 @@
 # MakingVideo
 1. Bird's eye view와 Dash View 프레임이 합쳐진 파일을 먼저 두개로 나눈다. [Divide.py](https://github.com/engineerjkk/MakingVideo/blob/main/divide.py)  
-2. 시퀀스 이미지 프레임에서 먼저 번호순으로 정렬한다. [Sorting](https://github.com/engineerjkk/MakingVideo/blob/main/sorting.py)  
+2. 시퀀스 이미지 프레임에서 먼저 번호순으로 정렬한다.(이미 정렬돼있다면 안해도된다.) [Sorting](https://github.com/engineerjkk/MakingVideo/blob/main/sorting.py)  
 3. 프레임을 동영상으로 만든다. 원하는대로 프레임 속도를 설정할 수 있다. [Convert](https://github.com/engineerjkk/MakingVideo/blob/main/Convert.py)  
 4. 각각이 만든 두개의 동영상을 이어 붙인다. [Combine.py](https://github.com/engineerjkk/MakingVideo/blob/main/Combine.py)
 
