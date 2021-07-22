@@ -5,6 +5,7 @@
 4. 각각이 만든 두개의 동영상을 이어 붙인다. [Combine.py](https://github.com/engineerjkk/MakingVideo/blob/main/Combine.py)
 
 > 주의할 점 : 본인의 PC의 경우에는 한번에 1000장을 초과해 프레임을 처리할경우 Fail to allocate가 되어 error가 떴다. 
+
 > 따라서 본인은 1000장씩만 했지만 사양이 좋다면 한번에 큰 동영상을 처리할 수 있다.
 
 > input
