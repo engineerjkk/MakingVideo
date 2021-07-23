@@ -35,7 +35,7 @@ def convert_frames_to_video(pathIn, pathOut, fps):
 def main():
     pathIn = './Bird1000/'  # folder contain images to merge
     pathOut = 'Bird1000.avi'  # name of video to save
-    fps = 30.0
+    fps = 10.0
     convert_frames_to_video(pathIn, pathOut, fps)
     print("Finished")
 
