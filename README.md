@@ -12,3 +12,7 @@
 ![image](https://user-images.githubusercontent.com/76835313/126627074-6dd815e3-5abd-4da4-9abc-29d7db10d390.png)
 > output
 ![image](https://user-images.githubusercontent.com/76835313/126627137-ad7672c6-5ab8-4d5d-95d9-fb68fc2237df.png)
+
+# 데이터 셋 준비
+1. 라벨링을 마친 후 [To_Move_Only_Pair_of_Files.py](https://github.com/engineerjkk/MakingVideo/blob/main/To_Move_Only_Pair_of_Files.py) TxT 파일이 생성된 이미지만 쌍으로 새로운 폴더에 넣어준다.
+2. 이후 그 폴더에 뒤죽박죽으로 되어있는 데이터 이름들을 1~로 정렬해서 저장한다. (향후 데이터 취합시 용이하기 위해) [Numbering](https://github.com/engineerjkk/MakingVideo/blob/main/Numbering.py)
